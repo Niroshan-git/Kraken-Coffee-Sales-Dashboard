@@ -1,4 +1,4 @@
-# Kraken Coffee Infograpics Sales Dashboard
+# Kraken Coffee Infographics Sales Dashboard
 
 ## Overview
 This Power BI infographic dashboard presents a comprehensive review of Kraken Coffee's sales performance for its new Florida sales region. It includes detailed analyses of actual sales data (January to June 2023), forecasted sales data (July to December 2023), and insights derived from strategic metrics. The visualization is designed to provide actionable insights for key stakeholders.
