@@ -58,7 +58,7 @@ The forecasted values were generated using the **Holt-Winters Exponential Smooth
 ---
 
 ## How to Access the Dashboard
-You can access the dashboard and its details via the [GitHub repository](#) (replace # with the actual repository link).
+You can access the dashboard and its details via the [GitHub repository](#) (https://github.com/Niroshan-git/Kraken-Coffee-Sales-Dashboard.git).
 
 ---
 
